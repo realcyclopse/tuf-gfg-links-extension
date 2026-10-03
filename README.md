@@ -2,7 +2,6 @@
 
 A lightweight, non-intrusive Chrome/Chromium (Manifest V3) extension that enhances the [TakeUForward (TUF) Striver's A2Z DSA Sheet](https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet) and practice editor with direct, verified **GeeksforGeeks** links.
 
-> **Note on LeetCode**: TakeUForward already natively provides LeetCode links. This extension does not duplicate, modify, or interfere with TUF's native LeetCode integration. It focuses solely on adding verified GeeksforGeeks links styled 100% identically to TUF's native action buttons.
 
 ---
 
