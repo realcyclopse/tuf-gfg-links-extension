@@ -1,0 +1,2262 @@
+[
+  {
+    "question": "Pattern 1",
+    "slug": "pattern-1",
+    "gfg": "https://www.geeksforgeeks.org/problems/square-pattern/1"
+  },
+  {
+    "question": "Pattern 2",
+    "slug": "pattern-2",
+    "gfg": "https://www.geeksforgeeks.org/problems/right-triangle/1"
+  },
+  {
+    "question": "Pattern 3",
+    "slug": "pattern-3",
+    "gfg": "https://www.geeksforgeeks.org/problems/triangle-number/1"
+  },
+  {
+    "question": "Pattern 4",
+    "slug": "pattern-4",
+    "gfg": null
+  },
+  {
+    "question": "Pattern 5",
+    "slug": "pattern-5",
+    "gfg": "https://www.geeksforgeeks.org/problems/triangle-pattern-1661492263/1"
+  },
+  {
+    "question": "Pattern 6",
+    "slug": "pattern-6",
+    "gfg": null
+  },
+  {
+    "question": "Pattern 7",
+    "slug": "pattern-7",
+    "gfg": "https://www.geeksforgeeks.org/problems/triangle-pattern-1661492263/1"
+  },
+  {
+    "question": "Pattern 8",
+    "slug": "pattern-8",
+    "gfg": "https://www.geeksforgeeks.org/problems/inverted-triangle-of-stars/1"
+  },
+  {
+    "question": "Pattern 9",
+    "slug": "pattern-9",
+    "gfg": "https://www.geeksforgeeks.org/problems/pattern/1"
+  },
+  {
+    "question": "Pattern 10",
+    "slug": "pattern-10",
+    "gfg": "https://www.geeksforgeeks.org/problems/triangle-pattern-1662284916/1"
+  },
+  {
+    "question": "Pattern 11",
+    "slug": "pattern-11",
+    "gfg": "https://www.geeksforgeeks.org/problems/triangle-pattern-1662285334/1"
+  },
+  {
+    "question": "Pattern 12",
+    "slug": "pattern-12",
+    "gfg": "https://www.geeksforgeeks.org/problems/double-triangle-pattern-1662287416/1"
+  },
+  {
+    "question": "Pattern 13",
+    "slug": "pattern-13",
+    "gfg": "https://www.geeksforgeeks.org/problems/triangle-pattern-1662285911/1"
+  },
+  {
+    "question": "Pattern 14",
+    "slug": "pattern-14",
+    "gfg": null
+  },
+  {
+    "question": "Pattern 15",
+    "slug": "pattern-15",
+    "gfg": null
+  },
+  {
+    "question": "Pattern 16",
+    "slug": "pattern-16",
+    "gfg": null
+  },
+  {
+    "question": "Pattern 17",
+    "slug": "pattern-17",
+    "gfg": null
+  },
+  {
+    "question": "Pattern 18",
+    "slug": "pattern-18",
+    "gfg": null
+  },
+  {
+    "question": "Pattern 19",
+    "slug": "pattern-19",
+    "gfg": "https://www.geeksforgeeks.org/problems/double-triangle-pattern/1"
+  },
+  {
+    "question": "Pattern 20",
+    "slug": "pattern-20",
+    "gfg": "https://www.geeksforgeeks.org/problems/double-triangle-pattern/1"
+  },
+  {
+    "question": "Pattern 21",
+    "slug": "pattern-21",
+    "gfg": null
+  },
+  {
+    "question": "Pattern 22",
+    "slug": "pattern-22",
+    "gfg": null
+  },
+  {
+    "question": "Count all Digits of a Number",
+    "slug": "count-all-digits-of-a-number",
+    "gfg": "https://www.geeksforgeeks.org/problems/count-digits5716/1"
+  },
+  {
+    "question": "Count number of odd digits in a number",
+    "slug": "count-number-of-odd-digits-in-a-number",
+    "gfg": null
+  },
+  {
+    "question": "Reverse a number",
+    "slug": "reverse-a-number",
+    "gfg": "https://www.geeksforgeeks.org/problems/reverse-digit0316/1"
+  },
+  {
+    "question": "Palindrome Number",
+    "slug": "palindrome-number",
+    "gfg": "https://www.geeksforgeeks.org/problems/palindrome0746/1"
+  },
+  {
+    "question": "Return the Largest Digit in a Number",
+    "slug": "return-the-largest-digit-in-a-number",
+    "gfg": null
+  },
+  {
+    "question": "Factorial of a given number",
+    "slug": "factorial-of-a-given-number-ii",
+    "gfg": "https://www.geeksforgeeks.org/problems/find-all-factorial-numbers-less-than-or-equal-to-n3548/1"
+  },
+  {
+    "question": "Check if the Number is Armstrong",
+    "slug": "check-if-the-number-if-armstrong",
+    "gfg": "https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1"
+  },
+  {
+    "question": "Check for Perfect Number",
+    "slug": "check-for-perfect-number",
+    "gfg": "https://www.geeksforgeeks.org/problems/perfect-numbers3207/1"
+  },
+  {
+    "question": "Check for Prime Number",
+    "slug": "check-for-prime-number",
+    "gfg": "https://www.geeksforgeeks.org/problems/prime-number2314/1"
+  },
+  {
+    "question": "Count of Prime Numbers till N",
+    "slug": "count-of-prime-numbers-till-n",
+    "gfg": "https://www.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1"
+  },
+  {
+    "question": "GCD of Two Numbers",
+    "slug": "gcd-of-two-numbers",
+    "gfg": "https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1"
+  },
+  {
+    "question": "LCM of two numbers",
+    "slug": "lcm-of-two-numbers",
+    "gfg": "https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1"
+  },
+  {
+    "question": "Divisors of a Number",
+    "slug": "divisors-of-a-number",
+    "gfg": "https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1"
+  },
+  {
+    "question": "Sum of Array Elements",
+    "slug": "sum-of-array-elements",
+    "gfg": "https://www.geeksforgeeks.org/problems/sum-all-array-elements/1"
+  },
+  {
+    "question": "Count of odd numbers in Array",
+    "slug": "count-of-odd-numbers-in-array",
+    "gfg": "https://www.geeksforgeeks.org/problems/count-odd-even/1"
+  },
+  {
+    "question": "Check if the Array is Sorted I",
+    "slug": "check-if-the-array-is-sorted-i",
+    "gfg": "https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1"
+  },
+  {
+    "question": "Reverse an array",
+    "slug": "reverse-an-array",
+    "gfg": "https://www.geeksforgeeks.org/problems/reverse-an-array/1"
+  },
+  {
+    "question": "Highest Occurring Element in an Array",
+    "slug": "highest-occurring-element-in-an-array",
+    "gfg": "https://www.geeksforgeeks.org/problems/maximum-repeating-number/1"
+  },
+  {
+    "question": "Second Highest Occurring Element",
+    "slug": "second-highest-occurring-element",
+    "gfg": null
+  },
+  {
+    "question": "Sum of Highest and Lowest Frequency",
+    "slug": "sum-of-highest-and-lowest-frequency",
+    "gfg": "https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1"
+  },
+  {
+    "question": "Reverse a String II",
+    "slug": "reverse-a-string-ii",
+    "gfg": "https://www.geeksforgeeks.org/problems/reverse-a-string/1"
+  },
+  {
+    "question": "Palindrome Check",
+    "slug": "palindrome-check",
+    "gfg": "https://www.geeksforgeeks.org/problems/palindrome-string0817/1"
+  },
+  {
+    "question": "Largest Odd Number in a String",
+    "slug": "largest-odd-number-in-a-string",
+    "gfg": "https://www.geeksforgeeks.org/problems/largest-odd-number-in-string/1"
+  },
+  {
+    "question": "Longest Common Prefix",
+    "slug": "longest-common-prefix",
+    "gfg": "https://www.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1"
+  },
+  {
+    "question": "Isomorphic Strings",
+    "slug": "isomorphic-string",
+    "gfg": "https://www.geeksforgeeks.org/problems/isomorphic-strings-1587115620/1"
+  },
+  {
+    "question": "Rotate String",
+    "slug": "rotate-string",
+    "gfg": "https://www.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/1"
+  },
+  {
+    "question": "Valid Anagram",
+    "slug": "valid-anagram",
+    "gfg": "https://www.geeksforgeeks.org/problems/anagram-1587115620/1"
+  },
+  {
+    "question": "Sort Characters by Frequency",
+    "slug": "sort-characters-by-frequency",
+    "gfg": "https://www.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/1"
+  },
+  {
+    "question": "Sum of First N Numbers",
+    "slug": "sum-of-first-n-numbers",
+    "gfg": "https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1"
+  },
+  {
+    "question": "Factorial of a Given Number",
+    "slug": "factorial-of-a-given-number-ii",
+    "gfg": "https://www.geeksforgeeks.org/problems/find-all-factorial-numbers-less-than-or-equal-to-n3548/1"
+  },
+  {
+    "question": "Sum of Array Elements II",
+    "slug": "sum-of-array-elements-ii",
+    "gfg": null
+  },
+  {
+    "question": "Reverse a String I",
+    "slug": "reverse-a-string-i",
+    "gfg": "https://www.geeksforgeeks.org/problems/reverse-a-string/1"
+  },
+  {
+    "question": "Check if String is Palindrome or Not",
+    "slug": "check-if-string-is-palindrome-or-not-",
+    "gfg": "https://www.geeksforgeeks.org/problems/palindrome-string0817/1"
+  },
+  {
+    "question": "Check if a Number is Prime or Not",
+    "slug": "check-if-a-number-is-prime-or-not",
+    "gfg": "https://www.geeksforgeeks.org/problems/prime-number2314/1"
+  },
+  {
+    "question": "Reverse an array 2",
+    "slug": "reverse-an-array-ii",
+    "gfg": "https://www.geeksforgeeks.org/problems/reverse-an-array/1"
+  },
+  {
+    "question": "Check if the Array is Sorted II",
+    "slug": "check-if-the-array-is-sorted-ii",
+    "gfg": "https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1"
+  },
+  {
+    "question": "Sum of Digits in a Given Number",
+    "slug": "sum-of-digits-in-a-given-number",
+    "gfg": "https://www.geeksforgeeks.org/problems/sum-of-digits1742/1"
+  },
+  {
+    "question": "Fibonacci Number",
+    "slug": "fibonacci-number",
+    "gfg": "https://www.geeksforgeeks.org/problems/nth-fibonacci-number/1"
+  },
+  {
+    "question": "Selection Sort",
+    "slug": "selection-sort",
+    "gfg": "https://www.geeksforgeeks.org/problems/selection-sort/1"
+  },
+  {
+    "question": "Bubble Sort",
+    "slug": "bubble-sort",
+    "gfg": "https://www.geeksforgeeks.org/problems/bubble-sort/1"
+  },
+  {
+    "question": "Insertion Sorting",
+    "slug": "insertion-sorting",
+    "gfg": "https://www.geeksforgeeks.org/problems/insertion-sort/1"
+  },
+  {
+    "question": "Merge Sorting",
+    "slug": "merge-sorting",
+    "gfg": "https://www.geeksforgeeks.org/problems/merge-sort/1"
+  },
+  {
+    "question": "Quick Sorting",
+    "slug": "quick-sorting",
+    "gfg": "https://www.geeksforgeeks.org/problems/quick-sort/1"
+  },
+  {
+    "question": "Recursive Bubble Sort",
+    "slug": "recursive-bubble-sort",
+    "gfg": "https://www.geeksforgeeks.org/problems/bubble-sort/1"
+  },
+  {
+    "question": "Recursive Insertion Sort",
+    "slug": "recursive-insertion-sort",
+    "gfg": "https://www.geeksforgeeks.org/problems/insertion-sort/1"
+  },
+  {
+    "question": "Linear Search",
+    "slug": "linear-search",
+    "gfg": "https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1"
+  },
+  {
+    "question": "Largest Element",
+    "slug": "largest-element",
+    "gfg": "https://www.geeksforgeeks.org/problems/largest-element-in-array/1"
+  },
+  {
+    "question": "Second Largest Element",
+    "slug": "second-largest-element",
+    "gfg": "https://www.geeksforgeeks.org/problems/second-largest3735/1"
+  },
+  {
+    "question": "Maximum Consecutive Ones",
+    "slug": "maximum-consecutive-ones",
+    "gfg": "https://www.geeksforgeeks.org/problems/maximize-number-of-1s/1"
+  },
+  {
+    "question": "Left Rotate Array by One",
+    "slug": "left-rotate-array-by-one",
+    "gfg": "https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1"
+  },
+  {
+    "question": "Left Rotate Array by K Places",
+    "slug": "left-rotate-array",
+    "gfg": "https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1"
+  },
+  {
+    "question": "Move Zeros to End",
+    "slug": "move-zeros-to-end",
+    "gfg": "https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1"
+  },
+  {
+    "question": "Remove duplicates from sorted array",
+    "slug": "remove-duplicates-from-sorted-array",
+    "gfg": "https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1"
+  },
+  {
+    "question": "Find missing number",
+    "slug": "find-missing-number",
+    "gfg": "https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1"
+  },
+  {
+    "question": "Union of two sorted arrays",
+    "slug": "union-of-two-sorted-arrays",
+    "gfg": "https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1"
+  },
+  {
+    "question": "Intersection of two sorted arrays",
+    "slug": "intersection-of-two-sorted-arrays",
+    "gfg": "https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-arrays-with-duplicate-elements/1"
+  },
+  {
+    "question": "Majority Element-I",
+    "slug": "majority-element-i",
+    "gfg": "https://www.geeksforgeeks.org/problems/majority-element-1587115620/1"
+  },
+  {
+    "question": "Leaders in an Array",
+    "slug": "leaders-in-an-array",
+    "gfg": "https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1"
+  },
+  {
+    "question": "Rearrange array elements by sign",
+    "slug": "rearrange-array-elements-by-sign",
+    "gfg": "https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1"
+  },
+  {
+    "question": "Print the matrix in spiral manner",
+    "slug": "print-the-matrix-in-spiral-manner",
+    "gfg": "https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1"
+  },
+  {
+    "question": "Pascal's Triangle I",
+    "slug": "pascals-triangle-i",
+    "gfg": "https://www.geeksforgeeks.org/problems/pascal-triangle0652/1"
+  },
+  {
+    "question": "Pascal's Triangle II",
+    "slug": "pascals-triangle-ii",
+    "gfg": "https://www.geeksforgeeks.org/problems/pascal-triangle0652/1"
+  },
+  {
+    "question": "Pascal's Triangle III",
+    "slug": "pascals-triangle-iii",
+    "gfg": "https://www.geeksforgeeks.org/problems/pascal-triangle0652/1"
+  },
+  {
+    "question": "Rotate matrix by 90 degrees",
+    "slug": "rotate-matrix-by-90-degrees",
+    "gfg": "https://www.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1"
+  },
+  {
+    "question": "Set Matrix Zeroes",
+    "slug": "set-matrix-zeroes",
+    "gfg": "https://www.geeksforgeeks.org/problems/set-matrix-zeroes/1"
+  },
+  {
+    "question": "Two Sum",
+    "slug": "two-sum",
+    "gfg": "https://www.geeksforgeeks.org/problems/key-pair/1"
+  },
+  {
+    "question": "3 Sum",
+    "slug": "3-sum",
+    "gfg": "https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1"
+  },
+  {
+    "question": "4 Sum",
+    "slug": "4-sum",
+    "gfg": "https://www.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1"
+  },
+  {
+    "question": "Sort an array of 0's 1's and 2's",
+    "slug": "sort-an-array-of-0's-1's-and-2's",
+    "gfg": "https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/1"
+  },
+  {
+    "question": "Kadane's Algorithm",
+    "slug": "kadane's-algorithm",
+    "gfg": "https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1"
+  },
+  {
+    "question": "Next Permutation",
+    "slug": "next-permutation",
+    "gfg": "https://www.geeksforgeeks.org/problems/next-permutation5226/1"
+  },
+  {
+    "question": "Majority Element-II",
+    "slug": "majority-element-ii",
+    "gfg": "https://www.geeksforgeeks.org/problems/majority-vote/1"
+  },
+  {
+    "question": "Find the repeating and missing number",
+    "slug": "find-the-repeating-and-missing-number",
+    "gfg": "https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1"
+  },
+  {
+    "question": "Count Inversions",
+    "slug": "count-inversions",
+    "gfg": "https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1"
+  },
+  {
+    "question": "Reverse Pairs",
+    "slug": "reverse-pairs",
+    "gfg": "https://www.geeksforgeeks.org/problems/count-reverse-pairs/1"
+  },
+  {
+    "question": "Maximum Product Subarray in an Array",
+    "slug": "maximum-product-subarray-in-an-array",
+    "gfg": "https://www.geeksforgeeks.org/problems/maximum-product-subarray3604/1"
+  },
+  {
+    "question": "Merge two sorted arrays without extra space",
+    "slug": "merge-two-sorted-arrays-without-extra-space",
+    "gfg": "https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1"
+  },
+  {
+    "question": "Longest Consecutive Sequence in an Array",
+    "slug": "longest-consecutive-sequence-in-an-array",
+    "gfg": "https://www.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1"
+  },
+  {
+    "question": "Longest subarray with sum K",
+    "slug": "longest-subarray-with-sum-k",
+    "gfg": "https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1"
+  },
+  {
+    "question": "Largest Subarray with Sum 0",
+    "slug": "largest-subarray-with-sum-0",
+    "gfg": "https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1"
+  },
+  {
+    "question": "Count subarrays with given sum",
+    "slug": "count-subarrays-with-given-sum",
+    "gfg": "https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1"
+  },
+  {
+    "question": "Count subarrays with given xor K",
+    "slug": "count-subarrays-with-given-xor-k",
+    "gfg": "https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1"
+  },
+  {
+    "question": "Search X in sorted array",
+    "slug": "search-x-in-sorted-array",
+    "gfg": "https://www.geeksforgeeks.org/problems/binary-search-1587115620/1"
+  },
+  {
+    "question": "Lower Bound",
+    "slug": "lower-bound-",
+    "gfg": "https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1"
+  },
+  {
+    "question": "Upper Bound",
+    "slug": "upper-bound",
+    "gfg": "https://www.geeksforgeeks.org/problems/ceil-the-floor/1"
+  },
+  {
+    "question": "Search insert position",
+    "slug": "search-insert-position",
+    "gfg": "https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1"
+  },
+  {
+    "question": "Floor and Ceil in Sorted Array",
+    "slug": "floor-and-ceil-in-sorted-array",
+    "gfg": "https://www.geeksforgeeks.org/problems/ceil-the-floor/1"
+  },
+  {
+    "question": "First and last occurrence",
+    "slug": "first-and-last-occurrence",
+    "gfg": "https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1"
+  },
+  {
+    "question": "Search in rotated sorted array-I",
+    "slug": "search-in-rotated-sorted-array-i",
+    "gfg": "https://www.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1"
+  },
+  {
+    "question": "Search in rotated sorted array-II",
+    "slug": "search-in-rotated-sorted-array-2",
+    "gfg": "https://www.geeksforgeeks.org/problems/search-in-rotated-array-2/1"
+  },
+  {
+    "question": "Find minimum in Rotated Sorted Array",
+    "slug": "find-minimum-in-rotated-sorted-array",
+    "gfg": "https://www.geeksforgeeks.org/problems/rotation4723/1"
+  },
+  {
+    "question": "Find out how many times the array is rotated",
+    "slug": "find-out-how-many-times-the-array-is-rotated",
+    "gfg": "https://www.geeksforgeeks.org/problems/rotation4723/1"
+  },
+  {
+    "question": "Single element in sorted array",
+    "slug": "single-element-in-sorted-array",
+    "gfg": "https://www.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1"
+  },
+  {
+    "question": "Count Occurrences in a Sorted Array",
+    "slug": "count-occurrences-in-a-sorted-array",
+    "gfg": "https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1"
+  },
+  {
+    "question": "Find square root of a number",
+    "slug": "find-square-root-of-a-number",
+    "gfg": "https://www.geeksforgeeks.org/problems/square-root/1"
+  },
+  {
+    "question": "Find Nth root of a number",
+    "slug": "find-nth-root-of-a-number",
+    "gfg": "https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1"
+  },
+  {
+    "question": "Find the smallest divisor",
+    "slug": "find-the-smallest-divisor",
+    "gfg": "https://www.geeksforgeeks.org/problems/smallest-divisor/1"
+  },
+  {
+    "question": "Koko eating bananas",
+    "slug": "koko-eating-bananas",
+    "gfg": "https://www.geeksforgeeks.org/problems/koko-eating-bananas/1"
+  },
+  {
+    "question": "Minimum days to make M bouquets",
+    "slug": "minimum-days-to-make-m-bouquets",
+    "gfg": "https://www.geeksforgeeks.org/problems/minimum-days-to-make-m-bouquets/1"
+  },
+  {
+    "question": "Capacity to Ship Packages Within D Days",
+    "slug": "capacity-to-ship-packages-within-d-days",
+    "gfg": "https://www.geeksforgeeks.org/problems/capacity-to-ship-packages-within-d-days/1"
+  },
+  {
+    "question": "Kth Missing Positive Number",
+    "slug": "kth-missing-positive-number",
+    "gfg": "https://www.geeksforgeeks.org/problems/kth-missing-positive-number-in-a-sorted-array/1"
+  },
+  {
+    "question": "Painter's Partition",
+    "slug": "painters-partition",
+    "gfg": "https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1"
+  },
+  {
+    "question": "Aggressive Cows",
+    "slug": "aggressive-cows",
+    "gfg": "https://www.geeksforgeeks.org/problems/aggressive-cows/1"
+  },
+  {
+    "question": "Book Allocation Problem",
+    "slug": "book-allocation-problem",
+    "gfg": "https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1"
+  },
+  {
+    "question": "Find peak element",
+    "slug": "find-peak-element",
+    "gfg": "https://www.geeksforgeeks.org/problems/peak-element/1"
+  },
+  {
+    "question": "Median of 2 sorted arrays",
+    "slug": "median-of-2-sorted-arrays",
+    "gfg": "https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1"
+  },
+  {
+    "question": "Kth element of 2 sorted arrays",
+    "slug": "kth-element-of-2-sorted-arrays",
+    "gfg": "https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1"
+  },
+  {
+    "question": "Minimize Max Distance to Gas Station",
+    "slug": "minimise-max-distance-to-gas-stations",
+    "gfg": "https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1"
+  },
+  {
+    "question": "Split array - largest sum",
+    "slug": "split-array---largest-sum",
+    "gfg": "https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1"
+  },
+  {
+    "question": "Find row with maximum 1's",
+    "slug": "find-row-with-maximum-1's",
+    "gfg": "https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1"
+  },
+  {
+    "question": "Search in a 2D Matrix",
+    "slug": "search-in-a-2d-matrix",
+    "gfg": "https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1"
+  },
+  {
+    "question": "Search in 2D matrix - II",
+    "slug": "search-in-2d-matrix-ii",
+    "gfg": "https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1"
+  },
+  {
+    "question": "Find Peak Element - II",
+    "slug": "find-peak-element-ii",
+    "gfg": "https://www.geeksforgeeks.org/problems/find-the-peak-element-in-a-2d-matrix/1"
+  },
+  {
+    "question": "Matrix Median",
+    "slug": "matrix-median",
+    "gfg": "https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1"
+  },
+  {
+    "question": "Remove Outermost Parentheses",
+    "slug": "remove-outermost-parentheses",
+    "gfg": "https://www.geeksforgeeks.org/problems/outermost-parentheses/1"
+  },
+  {
+    "question": "Maximum Nesting Depth of the Parentheses",
+    "slug": "maximum-nesting-depth-of-the-parentheses",
+    "gfg": "https://www.geeksforgeeks.org/problems/maximum-nesting-depth-of-the-parentheses/1"
+  },
+  {
+    "question": "Roman to Integer",
+    "slug": "roman-to-integer",
+    "gfg": "https://www.geeksforgeeks.org/problems/roman-number-to-integer/1"
+  },
+  {
+    "question": "String to Integer (atoi)",
+    "slug": "string-to-integer-atoi",
+    "gfg": "https://www.geeksforgeeks.org/problems/implement-atoi/1"
+  },
+  {
+    "question": "Longest Palindromic Substring",
+    "slug": "longest-palindromic-substring",
+    "gfg": "https://www.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1"
+  },
+  {
+    "question": "Sum of Beauty of All Substrings",
+    "slug": "sum-of-beauty-of-all-substrings",
+    "gfg": "https://www.geeksforgeeks.org/problems/sum-of-beauty-of-all-substrings-1662962118/1"
+  },
+  {
+    "question": "Pow(x,n)",
+    "slug": "pow(x%2Cn)",
+    "gfg": "https://www.geeksforgeeks.org/problems/powx-n/1"
+  },
+  {
+    "question": "Generate Parentheses",
+    "slug": "generate-parentheses",
+    "gfg": "https://www.geeksforgeeks.org/problems/generate-all-possible-parentheses/1"
+  },
+  {
+    "question": "Power Set",
+    "slug": "power-set",
+    "gfg": "https://www.geeksforgeeks.org/problems/power-set4302/1"
+  },
+  {
+    "question": "Count Good Numbers",
+    "slug": "count-good-numbers",
+    "gfg": "https://www.geeksforgeeks.org/problems/count-good-numbers/1"
+  },
+  {
+    "question": "Reverse a Stack",
+    "slug": "reverse-a-stack",
+    "gfg": "https://www.geeksforgeeks.org/problems/reverse-a-stack/1"
+  },
+  {
+    "question": "Check if there exists a subsequence with sum K",
+    "slug": "check-if-there-exists-a-subsequence-with-sum-k",
+    "gfg": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1"
+  },
+  {
+    "question": "Count all subsequences with sum K",
+    "slug": "count-all-subsequences-with-sum-k",
+    "gfg": "https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1"
+  },
+  {
+    "question": "Generate Binary Strings Without Consecutive 1s",
+    "slug": "generate-binary-strings-without-consecutive-1s",
+    "gfg": "https://www.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1"
+  },
+  {
+    "question": "Combination Sum",
+    "slug": "combination-sum",
+    "gfg": "https://www.geeksforgeeks.org/problems/combination-sum-1587115620/1"
+  },
+  {
+    "question": "Combination Sum II",
+    "slug": "combination-sum-ii",
+    "gfg": "https://www.geeksforgeeks.org/problems/combination-sum-ii/1"
+  },
+  {
+    "question": "Subsets I",
+    "slug": "subsets-i",
+    "gfg": "https://www.geeksforgeeks.org/problems/subset-sums2234/1"
+  },
+  {
+    "question": "Subsets II",
+    "slug": "subsets-ii",
+    "gfg": "https://www.geeksforgeeks.org/problems/subset-sum-ii/1"
+  },
+  {
+    "question": "Combination Sum III",
+    "slug": "combination-sum-iii",
+    "gfg": "https://www.geeksforgeeks.org/problems/combination-sum-iii--111703/1"
+  },
+  {
+    "question": "Letter Combinations of a Phone Number",
+    "slug": "letter-combinations-of-a-phone-number",
+    "gfg": "https://www.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1"
+  },
+  {
+    "question": "Palindrome partitioning",
+    "slug": "palindrome-partitioning",
+    "gfg": "https://www.geeksforgeeks.org/problems/palindromic-patitioning4845/1"
+  },
+  {
+    "question": "Word Search",
+    "slug": "word-search",
+    "gfg": "https://www.geeksforgeeks.org/problems/word-search/1"
+  },
+  {
+    "question": "N Queen",
+    "slug": "n-queen",
+    "gfg": "https://www.geeksforgeeks.org/problems/n-queen-problem0315/1"
+  },
+  {
+    "question": "Rat in a Maze",
+    "slug": "rat-in-a-maze",
+    "gfg": "https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1"
+  },
+  {
+    "question": "M Coloring Problem",
+    "slug": "m-coloring-problem",
+    "gfg": "https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1"
+  },
+  {
+    "question": "Sudoku Solver",
+    "slug": "sudoko-solver",
+    "gfg": "https://www.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1"
+  },
+  {
+    "question": "Expression Add Operators",
+    "slug": "expression-add-operators",
+    "gfg": "https://www.geeksforgeeks.org/problems/expression-add-operators/1"
+  },
+  {
+    "question": "Traversal in Linked List",
+    "slug": "traversal-in-linked-list",
+    "gfg": "https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1"
+  },
+  {
+    "question": "Deletion of the head of LL",
+    "slug": "deletion-of-the-head-of-ll",
+    "gfg": "https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1"
+  },
+  {
+    "question": "Deletion of the tail of Linked List",
+    "slug": "deletion-of-the-tail-of-ll",
+    "gfg": "https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1"
+  },
+  {
+    "question": "Deletion of the Kth element of Linked List",
+    "slug": "deletion-of-the-kth-element-of-ll",
+    "gfg": "https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1"
+  },
+  {
+    "question": "Delete the element with value X",
+    "slug": "delete-the-element-with-value-x",
+    "gfg": "https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1"
+  },
+  {
+    "question": "Insertion at the head of Linked List",
+    "slug": "insertion-at-the-head-of-ll",
+    "gfg": "https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1"
+  },
+  {
+    "question": "Insertion at the tail of Linked List",
+    "slug": "insertion-at-the-tail-of-ll",
+    "gfg": "https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1"
+  },
+  {
+    "question": "Insertion at the Kth position of Linked List",
+    "slug": "insertion-at-the-kth-position-of-ll",
+    "gfg": "https://www.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1"
+  },
+  {
+    "question": "Insertion before the value X in Linked List",
+    "slug": "insertion-before-the-value-x-in-ll",
+    "gfg": "https://www.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1"
+  },
+  {
+    "question": "Find the length of the Linked List",
+    "slug": "find-the-length-of-the-linked-list",
+    "gfg": "https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1"
+  },
+  {
+    "question": "Search in Linked List",
+    "slug": "search-in-linked-list",
+    "gfg": "https://www.geeksforgeeks.org/problems/search-in-linked-list/1"
+  },
+  {
+    "question": "Deletion in Doubly LL",
+    "slug": "deletion-in-doubly-ll",
+    "gfg": "https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1"
+  },
+  {
+    "question": "Insertion in DLL",
+    "slug": "insertion-in-dll",
+    "gfg": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1"
+  },
+  {
+    "question": "Convert Array to Doubly Linked List",
+    "slug": "convert-array-to-dll",
+    "gfg": "https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1"
+  },
+  {
+    "question": "Delete Tail of Doubly Linked List",
+    "slug": "delete-tail-of-dll",
+    "gfg": "https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1"
+  },
+  {
+    "question": "Delete Kth Element of Doubly Linked List",
+    "slug": "delete-kth-element-of-dll",
+    "gfg": "https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1"
+  },
+  {
+    "question": "Removing given node in Doubly Linked List",
+    "slug": "removing-given-node-in-dll",
+    "gfg": "https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1"
+  },
+  {
+    "question": "Insert node before head in Doubly Linked List",
+    "slug": "insert-node-before-head-in-dll",
+    "gfg": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1"
+  },
+  {
+    "question": "Insert node before tail in Doubly Linked List",
+    "slug": "insert-node-before-tail-in-dll",
+    "gfg": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1"
+  },
+  {
+    "question": "Insert node before (kth node) in Doubly Linked List",
+    "slug": "insert-node-before-kth-node-in-dll",
+    "gfg": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1"
+  },
+  {
+    "question": "Insert before given node in Doubly Linked List",
+    "slug": "insert-before-given-node-in-dll",
+    "gfg": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1"
+  },
+  {
+    "question": "Delete head of Doubly Linked List",
+    "slug": "delete-head-of-dll",
+    "gfg": "https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1"
+  },
+  {
+    "question": "Reverse a Doubly Linked List",
+    "slug": "reverse-a-doubly-linked-list",
+    "gfg": "https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1"
+  },
+  {
+    "question": "Add two numbers in Linked List",
+    "slug": "add-two-numbers-in-ll",
+    "gfg": "https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1"
+  },
+  {
+    "question": "Segregate odd and even nodes in Linked List",
+    "slug": "segregate-odd-and-even-nodes-in-ll",
+    "gfg": "https://www.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list/1"
+  },
+  {
+    "question": "Sort a Linked List of 0's 1's and 2's",
+    "slug": "sort-a-ll-of-0's-1's-and-2's",
+    "gfg": "https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1"
+  },
+  {
+    "question": "Remove Nth node from the back of the LL",
+    "slug": "remove-nth-node-from-the-back-of-the-ll",
+    "gfg": "https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1"
+  },
+  {
+    "question": "Reverse a LL",
+    "slug": "reverse-a-ll",
+    "gfg": "https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1"
+  },
+  {
+    "question": "Add one to a number represented by LL",
+    "slug": "add-one-to-a-number-represented-by-ll",
+    "gfg": "https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1"
+  },
+  {
+    "question": "Find Middle of Linked List",
+    "slug": "find-middle-of-linked-list",
+    "gfg": "https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1"
+  },
+  {
+    "question": "Delete the middle node in LL",
+    "slug": "delete-the-middle-node-in-ll",
+    "gfg": "https://www.geeksforgeeks.org/problems/delete-middle-of-linked-list/1"
+  },
+  {
+    "question": "Check if LL is palindrome or not",
+    "slug": "check-if-ll-is-palindrome-or-not",
+    "gfg": "https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1"
+  },
+  {
+    "question": "Find the intersection point of Y LL",
+    "slug": "find-the-intersection-point-of-y-ll",
+    "gfg": "https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1"
+  },
+  {
+    "question": "Detect a loop in LL",
+    "slug": "detect-a-loop-in-ll",
+    "gfg": "https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1"
+  },
+  {
+    "question": "Find the starting point in LL",
+    "slug": "find-the-starting-point-in-ll",
+    "gfg": "https://www.geeksforgeeks.org/problems/find-length-of-loop/1"
+  },
+  {
+    "question": "Length of loop in LL",
+    "slug": "length-of-loop-in-ll",
+    "gfg": "https://www.geeksforgeeks.org/problems/find-length-of-loop/1"
+  },
+  {
+    "question": "Reverse LL in group of given size K",
+    "slug": "reverse-ll-in-group-of-given-size-k",
+    "gfg": "https://www.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1"
+  },
+  {
+    "question": "Rotate a LL",
+    "slug": "rotate-a-ll",
+    "gfg": "https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1"
+  },
+  {
+    "question": "Merge two Sorted Lists",
+    "slug": "merge-sorted-lists-",
+    "gfg": "https://www.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1"
+  },
+  {
+    "question": "Flattening of LL",
+    "slug": "flattening-of-ll",
+    "gfg": "https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1"
+  },
+  {
+    "question": "Sort LL",
+    "slug": "sort-ll",
+    "gfg": "https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1"
+  },
+  {
+    "question": "Clone a LL with random and next pointer",
+    "slug": "clone-a-ll-with-random-and-next-pointer",
+    "gfg": "https://www.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1"
+  },
+  {
+    "question": "Delete all occurrences of a key in DLL",
+    "slug": "delete-all-occurrences-of-a-key-in-dll",
+    "gfg": "https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1"
+  },
+  {
+    "question": "Remove duplicates from sorted DLL",
+    "slug": "remove-duplicated-from-sorted-dll",
+    "gfg": "https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1"
+  },
+  {
+    "question": "Find Pairs with Given Sum in Doubly Linked List",
+    "slug": "find-pairs-with-given-sum-in-doubly-linked-list",
+    "gfg": "https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1"
+  },
+  {
+    "question": "Check if the i-th bit is Set or Not",
+    "slug": "check-if-the-i-th-bit-is-set-or-not",
+    "gfg": "https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1"
+  },
+  {
+    "question": "Check if a Number is Odd or Not",
+    "slug": "check-if-a-number-is-odd-or-not",
+    "gfg": "https://www.geeksforgeeks.org/problems/odd-or-even3618/1"
+  },
+  {
+    "question": "Check if a Number is Power of 2 or Not",
+    "slug": "check-if-a-number-is-power-of-2-or-not",
+    "gfg": "https://www.geeksforgeeks.org/problems/power-of-2-1587115620/1"
+  },
+  {
+    "question": "Count the Number of Set Bits",
+    "slug": "count-the-number-of-set-bits",
+    "gfg": "https://www.geeksforgeeks.org/problems/set-bits0143/1"
+  },
+  {
+    "question": "Set/Unset the rightmost unset bit",
+    "slug": "setunset-the-rightmost-unset-bit",
+    "gfg": "https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1"
+  },
+  {
+    "question": "Swap Two Numbers",
+    "slug": "swap-two-numbers",
+    "gfg": "https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1"
+  },
+  {
+    "question": "Minimum Bit Flips to Convert Number",
+    "slug": "minimum-bit-flips-to-convert-number",
+    "gfg": "https://www.geeksforgeeks.org/problems/bit-difference-1587115620/1"
+  },
+  {
+    "question": "Single Number - I",
+    "slug": "single-number---i",
+    "gfg": "https://www.geeksforgeeks.org/problems/element-appearing-once2552/1"
+  },
+  {
+    "question": "Single Number - II",
+    "slug": "single-number---ii",
+    "gfg": "https://www.geeksforgeeks.org/problems/find-element-occuring-once-when-all-other-are-present-thrice/1"
+  },
+  {
+    "question": "Single Number - III",
+    "slug": "single-number---iii",
+    "gfg": "https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1"
+  },
+  {
+    "question": "Divide two numbers without multiplication and division",
+    "slug": "divide-two-numbers-without-multiplication-and-division",
+    "gfg": "https://www.geeksforgeeks.org/problems/division-without-using-multiplication-division-and-mod-operator/1"
+  },
+  {
+    "question": "Power Set Bit Manipulation",
+    "slug": "power-set-bit-manipulation",
+    "gfg": "https://www.geeksforgeeks.org/problems/subset-sums2234/1"
+  },
+  {
+    "question": "XOR of numbers in a given range",
+    "slug": "xor-of-numbers-in-a-given-range",
+    "gfg": "https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1"
+  },
+  {
+    "question": "Assign Cookies",
+    "slug": "assign-cookies",
+    "gfg": "https://www.geeksforgeeks.org/problems/assign-cookies/1"
+  },
+  {
+    "question": "Lemonade Change",
+    "slug": "lemonade-change",
+    "gfg": "https://www.geeksforgeeks.org/problems/lemonade-change/1"
+  },
+  {
+    "question": "Fractional Knapsack",
+    "slug": "fractional-knapsack",
+    "gfg": "https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1"
+  },
+  {
+    "question": "Jump Game - I",
+    "slug": "jump-game---i",
+    "gfg": "https://www.geeksforgeeks.org/problems/jump-game/1"
+  },
+  {
+    "question": "Shortest Job First",
+    "slug": "shortest-job-first",
+    "gfg": "https://www.geeksforgeeks.org/problems/shortest-job-first/1"
+  },
+  {
+    "question": "Job sequencing Problem",
+    "slug": "job-sequencing-problem",
+    "gfg": "https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1"
+  },
+  {
+    "question": "N meetings in one room",
+    "slug": "n-meetings-in-one-room",
+    "gfg": "https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1"
+  },
+  {
+    "question": "Non-overlapping Intervals",
+    "slug": "non-overlapping-intervals",
+    "gfg": "https://www.geeksforgeeks.org/problems/non-overlapping-intervals/1"
+  },
+  {
+    "question": "Insert Interval",
+    "slug": "insert-interval",
+    "gfg": "https://www.geeksforgeeks.org/problems/insert-interval-1666733333/1"
+  },
+  {
+    "question": "Merge Intervals",
+    "slug": "merge-intervals",
+    "gfg": "https://www.geeksforgeeks.org/problems/overlapping-intervals--170633/1"
+  },
+  {
+    "question": "Minimum number of platforms required for a railway",
+    "slug": "minimum-number-of-platforms-required-for-a-railway",
+    "gfg": "https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1"
+  },
+  {
+    "question": "Valid Paranthesis Checker",
+    "slug": "valid-paranthesis-checker",
+    "gfg": "https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1"
+  },
+  {
+    "question": "Candy",
+    "slug": "candy",
+    "gfg": "https://www.geeksforgeeks.org/problems/candy/1"
+  },
+  {
+    "question": "Jump Game II",
+    "slug": "jump-game-ii",
+    "gfg": "https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1"
+  },
+  {
+    "question": "Maximum Points You Can Obtain from Cards",
+    "slug": "maximum-points-you-can-obtain-from-cards-",
+    "gfg": "https://www.geeksforgeeks.org/problems/maximum-point-you-can-obtain-from-cards/1"
+  },
+  {
+    "question": "Longest Substring Without Repeating Characters",
+    "slug": "longest-substring-without-repeating-characters",
+    "gfg": "https://www.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1"
+  },
+  {
+    "question": "Max Consecutive Ones III",
+    "slug": "max-consecutive-ones-iii",
+    "gfg": "https://www.geeksforgeeks.org/problems/maximize-number-of-1s/1"
+  },
+  {
+    "question": "Fruit Into Baskets",
+    "slug": "fruit-into-baskets",
+    "gfg": "https://www.geeksforgeeks.org/problems/fruit-into-baskets-1663137462/1"
+  },
+  {
+    "question": "Longest Substring With At Most K Distinct Characters",
+    "slug": "longest-substring-with-at-most-k-distinct-characters",
+    "gfg": "https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1"
+  },
+  {
+    "question": "Longest Repeating Character Replacement",
+    "slug": "longest-repeating-character-replacement",
+    "gfg": "https://www.geeksforgeeks.org/problems/longest-repeating-character-replacement/1"
+  },
+  {
+    "question": "Minimum Window Substring",
+    "slug": "minimum-window-substring-",
+    "gfg": "https://www.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1"
+  },
+  {
+    "question": "Minimum Window Subsequence",
+    "slug": "minimum-window-subsequence",
+    "gfg": "https://www.geeksforgeeks.org/problems/minimum-window-subsequence/1"
+  },
+  {
+    "question": "Number of Substrings Containing All Three Characters",
+    "slug": "number-of-substrings-containing-all-three-characters",
+    "gfg": "https://www.geeksforgeeks.org/problems/count-substring/1"
+  },
+  {
+    "question": "Binary Subarrays With Sum",
+    "slug": "binary-subarrays-with-sum",
+    "gfg": "https://www.geeksforgeeks.org/problems/binary-subarray-with-sum/1"
+  },
+  {
+    "question": "Count number of Nice subarrays",
+    "slug": "count-number-of-nice-subarrays",
+    "gfg": "https://www.geeksforgeeks.org/problems/count-subarray-with-k-odds/1"
+  },
+  {
+    "question": "Subarrays with K Different Integers",
+    "slug": "subarrays-with-k-different-integers",
+    "gfg": "https://www.geeksforgeeks.org/problems/subarrays-with-k-different-integers/1"
+  },
+  {
+    "question": "Implement Stack using Arrays",
+    "slug": "implement-stack-using-arrays",
+    "gfg": "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1"
+  },
+  {
+    "question": "Implement Queue using Arrays",
+    "slug": "implement-queue-using-arrays",
+    "gfg": "https://www.geeksforgeeks.org/problems/implement-queue-using-array/1"
+  },
+  {
+    "question": "Implement Stack using Queue",
+    "slug": "implement-stack-using-queue",
+    "gfg": "https://www.geeksforgeeks.org/problems/stack-using-two-queues/1"
+  },
+  {
+    "question": "Implement Queue using Stack",
+    "slug": "implement-queue-using-stack",
+    "gfg": "https://www.geeksforgeeks.org/problems/queue-using-two-stacks/1"
+  },
+  {
+    "question": "Implement stack using Linkedlist",
+    "slug": "implement-stack-using-linkedlist",
+    "gfg": "https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1"
+  },
+  {
+    "question": "Implement queue using Linkedlist",
+    "slug": "implement-queue-using-linkedlist",
+    "gfg": "https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1"
+  },
+  {
+    "question": "Balanced Paranthesis",
+    "slug": "balanced-paranthesis",
+    "gfg": "https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1"
+  },
+  {
+    "question": "Infix to Postfix Conversion",
+    "slug": "infix-to-postfix-conversion",
+    "gfg": "https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1"
+  },
+  {
+    "question": "Infix to Prefix Conversion",
+    "slug": "infix-to-prefix-conversion",
+    "gfg": "https://www.geeksforgeeks.org/problems/infix-to-prefix-notation/1"
+  },
+  {
+    "question": "Prefix to Infix Conversion",
+    "slug": "prefix-to-infix-conversion",
+    "gfg": "https://www.geeksforgeeks.org/problems/prefix-to-infix-conversion/1"
+  },
+  {
+    "question": "Prefix to Postfix Conversion",
+    "slug": "prefix-to-postfix-conversion",
+    "gfg": "https://www.geeksforgeeks.org/problems/prefix-to-postfix-conversion/1"
+  },
+  {
+    "question": "Postfix to Infix Conversion",
+    "slug": "postfix-to-infix-conversion",
+    "gfg": "https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/1"
+  },
+  {
+    "question": "Postfix to Prefix Conversion",
+    "slug": "postfix-to-prefix-conversion",
+    "gfg": "https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1"
+  },
+  {
+    "question": "Next Greater Element",
+    "slug": "next-greater-element",
+    "gfg": "https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1"
+  },
+  {
+    "question": "Next Greater Element - 2",
+    "slug": "next-greater-element---2",
+    "gfg": "https://www.geeksforgeeks.org/problems/next-greater-element-2/1"
+  },
+  {
+    "question": "Asteroid Collision",
+    "slug": "asteroid-collision",
+    "gfg": "https://www.geeksforgeeks.org/problems/asteroid-collision/1"
+  },
+  {
+    "question": "Sum of Subarray Minimums",
+    "slug": "sum-of-subarray-minimums",
+    "gfg": "https://www.geeksforgeeks.org/problems/sum-of-subarray-minimum/1"
+  },
+  {
+    "question": "Sum of Subarray Ranges",
+    "slug": "sum-of-subarray-ranges",
+    "gfg": "https://www.geeksforgeeks.org/problems/sum-of-subarray-ranges/1"
+  },
+  {
+    "question": "Remove K Digits",
+    "slug": "remove-k-digits",
+    "gfg": "https://www.geeksforgeeks.org/problems/remove-k-digits/1"
+  },
+  {
+    "question": "Next Smaller Element",
+    "slug": "next-smaller-element",
+    "gfg": "https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1"
+  },
+  {
+    "question": "Implement Min Stack",
+    "slug": "implement-min-stack",
+    "gfg": "https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack/1"
+  },
+  {
+    "question": "Sliding Window Maximum",
+    "slug": "sliding-window-maximum",
+    "gfg": "https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1"
+  },
+  {
+    "question": "Trapping Rainwater",
+    "slug": "trapping-rainwater",
+    "gfg": "https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1"
+  },
+  {
+    "question": "Largest rectangle in a histogram",
+    "slug": "largest-rectangle-in-a-histogram",
+    "gfg": "https://www.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1"
+  },
+  {
+    "question": "Maximum Rectangles",
+    "slug": "maximum-rectangles",
+    "gfg": "https://www.geeksforgeeks.org/problems/max-rectangle/1"
+  },
+  {
+    "question": "Stock span problem",
+    "slug": "stock-span-problem",
+    "gfg": "https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1"
+  },
+  {
+    "question": "Celebrity Problem",
+    "slug": "celebrity-problem",
+    "gfg": "https://www.geeksforgeeks.org/problems/the-celebrity-problem/1"
+  },
+  {
+    "question": "LRU Cache",
+    "slug": "lru-cache",
+    "gfg": "https://www.geeksforgeeks.org/problems/lru-cache/1"
+  },
+  {
+    "question": "LFU Cache",
+    "slug": "lfu-cache",
+    "gfg": "https://www.geeksforgeeks.org/problems/lfu-cache-1665050355/1"
+  },
+  {
+    "question": "Number of Greater Elements to the Right",
+    "slug": "number-of-greater-elements-to-the-right",
+    "gfg": "https://www.geeksforgeeks.org/problems/number-of-nges-to-the-right/1"
+  },
+  {
+    "question": "Inorder Traversal",
+    "slug": "inorder-traversal",
+    "gfg": "https://www.geeksforgeeks.org/problems/inorder-traversal/1"
+  },
+  {
+    "question": "Preorder Traversal",
+    "slug": "preorder-traversal",
+    "gfg": "https://www.geeksforgeeks.org/problems/preorder-traversal/1"
+  },
+  {
+    "question": "Postorder Traversal",
+    "slug": "postorder-traversal",
+    "gfg": "https://www.geeksforgeeks.org/problems/postorder-traversal/1"
+  },
+  {
+    "question": "Level Order Traversal",
+    "slug": "level-order-traversal",
+    "gfg": "https://www.geeksforgeeks.org/problems/level-order-traversal/1"
+  },
+  {
+    "question": "Pre, Post, Inorder in one traversal",
+    "slug": "pre%2C-post%2C-inorder-in-one-traversal",
+    "gfg": "https://www.geeksforgeeks.org/problems/preorder-traversal/1"
+  },
+  {
+    "question": "Maximum Depth in BT",
+    "slug": "maximum-depth-in-bt",
+    "gfg": "https://www.geeksforgeeks.org/problems/height-of-binary-tree/1"
+  },
+  {
+    "question": "Check if two trees are identical or not",
+    "slug": "check-if-two-trees-are-identical-or-not",
+    "gfg": "https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1"
+  },
+  {
+    "question": "Check for balanced binary tree",
+    "slug": "check-for-balanced-binary-tree",
+    "gfg": "https://www.geeksforgeeks.org/problems/check-for-balanced-tree/1"
+  },
+  {
+    "question": "Diameter of Binary Tree",
+    "slug": "diameter-of-binary-tree",
+    "gfg": "https://www.geeksforgeeks.org/problems/diameter-of-binary-tree/1"
+  },
+  {
+    "question": "Maximum path sum",
+    "slug": "maximum-path-sum-",
+    "gfg": "https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1"
+  },
+  {
+    "question": "Check for symmetrical BTs",
+    "slug": "check-for-symmetrical-bts",
+    "gfg": "https://www.geeksforgeeks.org/problems/symmetric-tree/1"
+  },
+  {
+    "question": "Children Sum Property in Binary Tree",
+    "slug": "children-sum-property-in-binary-tree",
+    "gfg": "https://www.geeksforgeeks.org/problems/children-sum-parent/1"
+  },
+  {
+    "question": "Zig Zag or Spiral Traversal",
+    "slug": "zig-zag-or-spiral-traversal",
+    "gfg": "https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1"
+  },
+  {
+    "question": "Boundary Traversal",
+    "slug": "boundary-traversal",
+    "gfg": "https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1"
+  },
+  {
+    "question": "Vertical Order Traversal",
+    "slug": "vertical-order-traversal",
+    "gfg": "https://www.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1"
+  },
+  {
+    "question": "Top View of BT",
+    "slug": "top-view-of-bt",
+    "gfg": "https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1"
+  },
+  {
+    "question": "Bottom view of BT",
+    "slug": "bottom-view-of-bt",
+    "gfg": "https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1"
+  },
+  {
+    "question": "Right/Left View of BT",
+    "slug": "right-left-view-of-bt",
+    "gfg": "https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1"
+  },
+  {
+    "question": "Print root to leaf path in BT",
+    "slug": "print-root-to-leaf-path-in-bt",
+    "gfg": "https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1"
+  },
+  {
+    "question": "LCA in BT",
+    "slug": "lca-in-bt",
+    "gfg": "https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1"
+  },
+  {
+    "question": "Maximum Width of BT",
+    "slug": "maximum-width-of-bt",
+    "gfg": "https://www.geeksforgeeks.org/problems/maximum-width-of-tree/1"
+  },
+  {
+    "question": "Print all nodes at a distance of K in BT",
+    "slug": "print-all-nodes-at-a-distance-of-k-in-bt",
+    "gfg": "https://www.geeksforgeeks.org/problems/nodes-at-given-distance-in-binary-tree/1"
+  },
+  {
+    "question": "Minimum time taken to burn the BT from a given Node",
+    "slug": "minimum-time-taken-to-burn-the-bt-from-a-given-node",
+    "gfg": "https://www.geeksforgeeks.org/problems/burning-tree/1"
+  },
+  {
+    "question": "Count total nodes in a complete BT",
+    "slug": "count-total-nodes-in-a-complete-bt",
+    "gfg": "https://www.geeksforgeeks.org/problems/count-number-of-nodes-in-a-binary-tree/1"
+  },
+  {
+    "question": "Flatten Binary Tree to Linked List",
+    "slug": "flatten-binary-tree-to-linked-list",
+    "gfg": "https://www.geeksforgeeks.org/problems/flatten-binary-tree-to-linked-list/1"
+  },
+  {
+    "question": "Requirements needed to construct a unique BT",
+    "slug": "requirements-needed-to-construct-a-unique-bt",
+    "gfg": "https://www.geeksforgeeks.org/problems/unique-binary-tree-requirements/1"
+  },
+  {
+    "question": "Construct a BT from Preorder and Inorder",
+    "slug": "construct-a-bt-from-preorder-and-inorder",
+    "gfg": "https://www.geeksforgeeks.org/problems/construct-tree-1/1"
+  },
+  {
+    "question": "Construct a BT from Postorder and Inorder",
+    "slug": "construct-a-bt-from-postorder-and-inorder",
+    "gfg": "https://www.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/1"
+  },
+  {
+    "question": "Serialize and De-serialize BT",
+    "slug": "serialize-and-de-serialize-bt",
+    "gfg": "https://www.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1"
+  },
+  {
+    "question": "Morris Inorder Traversal",
+    "slug": "morris-inorder-traversal-",
+    "gfg": "https://www.geeksforgeeks.org/problems/inorder-traversal/1"
+  },
+  {
+    "question": "Morris Preorder Traversal",
+    "slug": "morris-preorder-traversal-",
+    "gfg": "https://www.geeksforgeeks.org/problems/inorder-traversal/1"
+  },
+  {
+    "question": "Search in BST",
+    "slug": "search-in-bst",
+    "gfg": "https://www.geeksforgeeks.org/problems/search-a-node-in-bst/1"
+  },
+  {
+    "question": "Floor and Ceil in a BST",
+    "slug": "floor-and-ceil-in-a-bst",
+    "gfg": "https://www.geeksforgeeks.org/problems/floor-in-bst/1"
+  },
+  {
+    "question": "Insert a given node in BST",
+    "slug": "insert-a-given-node-in-bst",
+    "gfg": "https://www.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1"
+  },
+  {
+    "question": "Delete a node in BST",
+    "slug": "delete-a-node-in-bst",
+    "gfg": "https://www.geeksforgeeks.org/problems/delete-a-node-from-bst/1"
+  },
+  {
+    "question": "Kth Smallest and Largest element in BST",
+    "slug": "kth-smallest-and-largest-element-in-bst",
+    "gfg": "https://www.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1"
+  },
+  {
+    "question": "Check if a tree is a BST or not",
+    "slug": "check-if-a-tree-is-a-bst-or-not",
+    "gfg": "https://www.geeksforgeeks.org/problems/check-for-bst/1"
+  },
+  {
+    "question": "LCA in BST",
+    "slug": "lca-in-bst",
+    "gfg": "https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1"
+  },
+  {
+    "question": "Construct a BST from a preorder traversal",
+    "slug": "construct-a-bst-from-a-preorder-traversal",
+    "gfg": "https://www.geeksforgeeks.org/problems/preorder-to-postorder4423/1"
+  },
+  {
+    "question": "Inorder successor and predecessor in BST",
+    "slug": "inorder-successor-and-predecessor-in-bst",
+    "gfg": "https://www.geeksforgeeks.org/problems/predecessor-and-successor/1"
+  },
+  {
+    "question": "BST iterator",
+    "slug": "bst-iterator",
+    "gfg": null
+  },
+  {
+    "question": "Two sum in BST",
+    "slug": "two-sum-in-bst",
+    "gfg": "https://www.geeksforgeeks.org/problems/find-a-pair-with-given-target-in-bst/1"
+  },
+  {
+    "question": "Correct BST with two nodes swapped",
+    "slug": "correct-bst-with-two-nodes-swapped",
+    "gfg": "https://www.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst/1"
+  },
+  {
+    "question": "Largest BST in Binary Tree",
+    "slug": "largest-bst-in-binary-tree",
+    "gfg": "https://www.geeksforgeeks.org/problems/largest-bst/1"
+  },
+  {
+    "question": "Heapify Algorithm",
+    "slug": "heapify-algorithm",
+    "gfg": "https://www.geeksforgeeks.org/problems/heap-sort/1"
+  },
+  {
+    "question": "Build heap from a given Array",
+    "slug": "build-heap-from-a-given-array",
+    "gfg": "https://www.geeksforgeeks.org/problems/heap-sort/1"
+  },
+  {
+    "question": "Implement Min Heap",
+    "slug": "implement-min-heap",
+    "gfg": "https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1"
+  },
+  {
+    "question": "Implement Max Heap",
+    "slug": "implement-max-heap",
+    "gfg": "https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1"
+  },
+  {
+    "question": "Check if an array represents a min heap",
+    "slug": "check-if-an-array-represents-a-min-heap-",
+    "gfg": "https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1"
+  },
+  {
+    "question": "Convert Min Heap to Max Heap",
+    "slug": "convert-min-heap-to-max-heap",
+    "gfg": null
+  },
+  {
+    "question": "Heap Sort",
+    "slug": "heap-sort",
+    "gfg": "https://www.geeksforgeeks.org/problems/heap-sort/1"
+  },
+  {
+    "question": "K-th Largest element in an array",
+    "slug": "k-th-largest-element-in-an-array",
+    "gfg": "https://www.geeksforgeeks.org/problems/k-largest-elements4206/1"
+  },
+  {
+    "question": "Kth largest element in a stream of running integers",
+    "slug": "kth-largest-element-in-a-stream-of-running-integers",
+    "gfg": "https://www.geeksforgeeks.org/problems/kth-largest-element-in-a-stream2220/1"
+  },
+  {
+    "question": "Merge K sorted Lists",
+    "slug": "merge-k-sorted-lists",
+    "gfg": "https://www.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1"
+  },
+  {
+    "question": "Replace Elements by Their Rank",
+    "slug": "replace-elements-by-their-rank",
+    "gfg": "https://www.geeksforgeeks.org/problems/convert-an-array-to-reduced-form1101/1"
+  },
+  {
+    "question": "Task Scheduler",
+    "slug": "task-scheduler",
+    "gfg": "https://www.geeksforgeeks.org/problems/task-scheduler/1"
+  },
+  {
+    "question": "Hand of Straights",
+    "slug": "hand-of-straights",
+    "gfg": "https://www.geeksforgeeks.org/problems/hands-of-straights/1"
+  },
+  {
+    "question": "Design Twitter",
+    "slug": "design-twitter",
+    "gfg": "https://www.geeksforgeeks.org/problems/design-twitter/1"
+  },
+  {
+    "question": "Minimum Cost to Connect Sticks",
+    "slug": "minimum-cost-to-connect-sticks",
+    "gfg": "https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1"
+  },
+  {
+    "question": "Maximum Sum Combination",
+    "slug": "maximum-sum-combination",
+    "gfg": "https://www.geeksforgeeks.org/problems/maximum-sum-combination/1"
+  },
+  {
+    "question": "Find Median from Data Stream",
+    "slug": "find-median-from-data-stream",
+    "gfg": "https://www.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1"
+  },
+  {
+    "question": "Top K Frequent Elements",
+    "slug": "top-k-frequent-elements",
+    "gfg": "https://www.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1"
+  },
+  {
+    "question": "Traversal Techniques",
+    "slug": "traversal-techniques",
+    "gfg": "https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1"
+  },
+  {
+    "question": "Connected Components",
+    "slug": "connected-components",
+    "gfg": "https://www.geeksforgeeks.org/problems/number-of-provinces/1"
+  },
+  {
+    "question": "Number of provinces",
+    "slug": "number-of-provinces",
+    "gfg": "https://www.geeksforgeeks.org/problems/number-of-provinces/1"
+  },
+  {
+    "question": "Number of islands",
+    "slug": "number-of-islands",
+    "gfg": "https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1"
+  },
+  {
+    "question": "Flood fill algorithm",
+    "slug": "flood-fill-algorithm",
+    "gfg": "https://www.geeksforgeeks.org/problems/flood-fill-algorithm1856/1"
+  },
+  {
+    "question": "Number of enclaves",
+    "slug": "number-of-enclaves",
+    "gfg": "https://www.geeksforgeeks.org/problems/number-of-enclaves/1"
+  },
+  {
+    "question": "Rotten Oranges",
+    "slug": "rotten-oranges",
+    "gfg": "https://www.geeksforgeeks.org/problems/rotten-oranges2536/1"
+  },
+  {
+    "question": "Distance of nearest cell having one",
+    "slug": "distance-of-nearest-cell-having-one",
+    "gfg": "https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1"
+  },
+  {
+    "question": "Surrounded Regions",
+    "slug": "surrounded-regions",
+    "gfg": "https://www.geeksforgeeks.org/problems/replace-os-with-xs0052/1"
+  },
+  {
+    "question": "Number of distinct islands",
+    "slug": "number-of-distinct-islands",
+    "gfg": "https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1"
+  },
+  {
+    "question": "Detect a cycle in an undirected graph",
+    "slug": "detect-a-cycle-in-an-undirected-graph",
+    "gfg": "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1"
+  },
+  {
+    "question": "Bipartite graph",
+    "slug": "bipartite-graph",
+    "gfg": "https://www.geeksforgeeks.org/problems/bipartite-graph/1"
+  },
+  {
+    "question": "Topological sort or Kahn's algorithm",
+    "slug": "topological-sort-or-kahns-algorithm",
+    "gfg": "https://www.geeksforgeeks.org/problems/topological-sort/1"
+  },
+  {
+    "question": "Detect a cycle in a directed graph",
+    "slug": "detect-a-cycle-in-a-directed-graph",
+    "gfg": "https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1"
+  },
+  {
+    "question": "Find eventual safe states",
+    "slug": "find-eventual-safe-states",
+    "gfg": "https://www.geeksforgeeks.org/problems/eventual-safe-states/1"
+  },
+  {
+    "question": "Course Schedule I",
+    "slug": "course-schedule-i",
+    "gfg": "https://www.geeksforgeeks.org/problems/course-schedule/1"
+  },
+  {
+    "question": "Course Schedule II",
+    "slug": "course-schedule-ii",
+    "gfg": "https://www.geeksforgeeks.org/problems/course-schedule/1"
+  },
+  {
+    "question": "Alien Dictionary",
+    "slug": "alient-dictionary",
+    "gfg": "https://www.geeksforgeeks.org/problems/alien-dictionary/1"
+  },
+  {
+    "question": "Shortest path in DAG",
+    "slug": "shortest-path-in-dag",
+    "gfg": "https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1"
+  },
+  {
+    "question": "Shortest path in undirected graph with unit weights",
+    "slug": "shortest-path-in-undirected-graph-with-unit-weights",
+    "gfg": "https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1"
+  },
+  {
+    "question": "Word ladder I",
+    "slug": "word-ladder-i",
+    "gfg": "https://www.geeksforgeeks.org/problems/word-ladder/1"
+  },
+  {
+    "question": "Word ladder II",
+    "slug": "word-ladder-ii",
+    "gfg": "https://www.geeksforgeeks.org/problems/word-ladder-ii/1"
+  },
+  {
+    "question": "Dijkstra's algorithm",
+    "slug": "dijkstra's-algorithm",
+    "gfg": "https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1"
+  },
+  {
+    "question": "Print Shortest Path",
+    "slug": "print-shortest-path-",
+    "gfg": "https://www.geeksforgeeks.org/problems/shortest-path-in-weighted-undirected-graph/1"
+  },
+  {
+    "question": "Shortest Distance in a Binary Maze",
+    "slug": "shortest-path-with-minimum-effort",
+    "gfg": "https://www.geeksforgeeks.org/problems/shortest-path-in-a-binary-maze-1655453161/1"
+  },
+  {
+    "question": "Path with minimum effort",
+    "slug": "path-with-minimum-effort",
+    "gfg": "https://www.geeksforgeeks.org/problems/path-with-minimum-effort/1"
+  },
+  {
+    "question": "Cheapest flight within K stops",
+    "slug": "cheapest-flight-within-k-stops",
+    "gfg": "https://www.geeksforgeeks.org/problems/cheapest-flights-within-k-stops/1"
+  },
+  {
+    "question": "Minimum multiplications to reach end",
+    "slug": "minimum-multiplications-to-reach-end",
+    "gfg": "https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1"
+  },
+  {
+    "question": "Number of ways to arrive at destination",
+    "slug": "number-of-ways-to-arrive-at-destination",
+    "gfg": "https://www.geeksforgeeks.org/problems/number-of-ways-to-arrive-at-destination/1"
+  },
+  {
+    "question": "Bellman ford algorithm",
+    "slug": "bellman-ford-algorithm",
+    "gfg": "https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1"
+  },
+  {
+    "question": "Floyd warshall algorithm",
+    "slug": "floyd-warshall-algorithm",
+    "gfg": "https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1"
+  },
+  {
+    "question": "Find the city with the smallest number of neighbors",
+    "slug": "find-the-city-with-the-smallest-number-of-neighbors",
+    "gfg": "https://www.geeksforgeeks.org/problems/city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/1"
+  },
+  {
+    "question": "Network Delay Time",
+    "slug": "network-delay-time",
+    "gfg": "https://www.geeksforgeeks.org/problems/network-delay-time/1"
+  },
+  {
+    "question": "Swim in Rising Water",
+    "slug": "swim-in-rising-water",
+    "gfg": "https://www.geeksforgeeks.org/dsa/minimum-time-required-to-swim-in-rising-water/"
+  },
+  {
+    "question": "Disjoint Set",
+    "slug": "disjoint-set-",
+    "gfg": "https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1"
+  },
+  {
+    "question": "Find the MST weight",
+    "slug": "find-the-mst-weight",
+    "gfg": "https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1"
+  },
+  {
+    "question": "Number of operations to make network connected",
+    "slug": "number-of-operations-to-make-network-connected",
+    "gfg": "https://www.geeksforgeeks.org/problems/connecting-the-graph/1"
+  },
+  {
+    "question": "Accounts merge",
+    "slug": "accounts-merge",
+    "gfg": "https://www.geeksforgeeks.org/problems/merging-details/1"
+  },
+  {
+    "question": "Number of islands II",
+    "slug": "number-of-islands-ii",
+    "gfg": "https://www.geeksforgeeks.org/problems/number-of-islands/1"
+  },
+  {
+    "question": "Making a large island",
+    "slug": "making-a-large-island",
+    "gfg": "https://www.geeksforgeeks.org/problems/making-a-large-island/1"
+  },
+  {
+    "question": "Most stones removed with same row or column",
+    "slug": "most-stones-removed-with-same-row-or-column",
+    "gfg": "https://www.geeksforgeeks.org/problems/maximum-stone-removal-1662179442/1"
+  },
+  {
+    "question": "Kosaraju's algorithm",
+    "slug": "kosaraju's-algorithm",
+    "gfg": "https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1"
+  },
+  {
+    "question": "Bridges in graph",
+    "slug": "bridges-in-graph",
+    "gfg": "https://www.geeksforgeeks.org/problems/critical-connections/1"
+  },
+  {
+    "question": "Articulation point in graph",
+    "slug": "articulation-point-in-graph",
+    "gfg": "https://www.geeksforgeeks.org/problems/articulation-point-1/1"
+  },
+  {
+    "question": "Climbing stairs",
+    "slug": "climbing-stairs",
+    "gfg": "https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1"
+  },
+  {
+    "question": "Frog Jump",
+    "slug": "frog-jump",
+    "gfg": "https://www.geeksforgeeks.org/problems/geek-jump/1"
+  },
+  {
+    "question": "Frog jump with K distances",
+    "slug": "frog-jump-with-k-distances",
+    "gfg": "https://www.geeksforgeeks.org/problems/minimal-cost/1"
+  },
+  {
+    "question": "Maximum sum of non adjacent elements",
+    "slug": "maximum-sum-of-non-adjacent-elements",
+    "gfg": "https://www.geeksforgeeks.org/problems/stickler-theif-1587115621/1"
+  },
+  {
+    "question": "House robber",
+    "slug": "house-robber",
+    "gfg": "https://www.geeksforgeeks.org/problems/stickler-theif-1587115621/1"
+  },
+  {
+    "question": "Ninja's training",
+    "slug": "ninja's-training",
+    "gfg": "https://www.geeksforgeeks.org/problems/geeks-training/1"
+  },
+  {
+    "question": "Grid unique paths",
+    "slug": "grid-unique-paths",
+    "gfg": "https://www.geeksforgeeks.org/problems/number-of-unique-paths5339/1"
+  },
+  {
+    "question": "Unique paths II",
+    "slug": "unique-paths-ii",
+    "gfg": "https://www.geeksforgeeks.org/problems/unique-paths-in-a-grid--170647/1"
+  },
+  {
+    "question": "Minimum Falling Path Sum",
+    "slug": "minimum-falling-path-sum",
+    "gfg": "https://www.geeksforgeeks.org/problems/minimum-cost-path3833/1"
+  },
+  {
+    "question": "Triangle",
+    "slug": "triangle",
+    "gfg": "https://www.geeksforgeeks.org/problems/triangle-path-sum/1"
+  },
+  {
+    "question": "Cherry pickup II",
+    "slug": "cherry-pickup-ii",
+    "gfg": "https://www.geeksforgeeks.org/problems/chocolates-pickup/1"
+  },
+  {
+    "question": "Count Square Submatrices with All Ones|(DP-56)",
+    "slug": "count-square-submatrices-with-all-ones",
+    "gfg": "https://www.geeksforgeeks.org/problems/count-square-submatrices-with-all-ones/1"
+  },
+  {
+    "question": "Best time to buy and sell stock",
+    "slug": "best-time-to-buy-and-sell-stock",
+    "gfg": "https://www.geeksforgeeks.org/problems/stock-buy-and-sell2615/1"
+  },
+  {
+    "question": "Best time to buy and sell stock II",
+    "slug": "best-time-to-buy-and-sell-stock-ii",
+    "gfg": "https://www.geeksforgeeks.org/problems/stock-buy-and-sell2615/1"
+  },
+  {
+    "question": "Best time to buy and sell stock III",
+    "slug": "best-time-to-buy-and-sell-stock-iii",
+    "gfg": "https://www.geeksforgeeks.org/problems/buy-and-sell-a-share-at-most-twice/1"
+  },
+  {
+    "question": "Best time to buy and sell stock IV",
+    "slug": "best-time-to-buy-and-sell-stock-iv",
+    "gfg": "https://www.geeksforgeeks.org/problems/maximum-profit4657/1"
+  },
+  {
+    "question": "Best time to buy and sell stock with transaction fees",
+    "slug": "best-time-to-buy-and-sell-stock-with-cooldown-and-transaction-fees",
+    "gfg": "https://www.geeksforgeeks.org/problems/buy-stock-with-transaction-fee/1"
+  },
+  {
+    "question": "Best Time to Buy and Sell Stock with Cooldown",
+    "slug": "best-time-to-buy-and-sell-stock-with-cooldown",
+    "gfg": "https://www.geeksforgeeks.org/problems/buy-stock-with-cooldown/1"
+  },
+  {
+    "question": "Subset sum equals to target",
+    "slug": "subset-sum-equals-to-target",
+    "gfg": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1"
+  },
+  {
+    "question": "Partition equal subset sum",
+    "slug": "partition-equal-subset-sum",
+    "gfg": "https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1"
+  },
+  {
+    "question": "Partition a set into two subsets with minimum absolute sum difference",
+    "slug": "partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference",
+    "gfg": "https://www.geeksforgeeks.org/problems/minimum-sum-partition3317/1"
+  },
+  {
+    "question": "Count subsets with sum K",
+    "slug": "count-subsets-with-sum-k",
+    "gfg": "https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1"
+  },
+  {
+    "question": "Count partitions with given difference",
+    "slug": "count-partitions-with-given-difference",
+    "gfg": "https://www.geeksforgeeks.org/problems/partitions-with-given-difference/1"
+  },
+  {
+    "question": "0 and 1 Knapsack",
+    "slug": "0-and-1-knapsack",
+    "gfg": "https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1"
+  },
+  {
+    "question": "Minimum coins",
+    "slug": "minimum-coins",
+    "gfg": "https://www.geeksforgeeks.org/problems/coin-change2448/1"
+  },
+  {
+    "question": "Target sum",
+    "slug": "target-sum",
+    "gfg": "https://www.geeksforgeeks.org/problems/target-sum-1626326450/1"
+  },
+  {
+    "question": "Coin change II",
+    "slug": "coin-change-ii",
+    "gfg": "https://www.geeksforgeeks.org/problems/coin-change2448/1"
+  },
+  {
+    "question": "Unbounded knapsack",
+    "slug": "unbounded-knapsack",
+    "gfg": "https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1"
+  },
+  {
+    "question": "Rod cutting problem",
+    "slug": "rod-cutting-problem",
+    "gfg": "https://www.geeksforgeeks.org/problems/rod-cutting0840/1"
+  },
+  {
+    "question": "Longest Increasing Subsequence",
+    "slug": "longest-increasing-subsequence",
+    "gfg": "https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1"
+  },
+  {
+    "question": "Print Longest Increasing Subsequence",
+    "slug": "print-longest-increasing-subsequence",
+    "gfg": "https://www.geeksforgeeks.org/problems/printing-longest-increasing-subsequence/1"
+  },
+  {
+    "question": "Largest Divisible Subset",
+    "slug": "largest-divisible-subset",
+    "gfg": "https://www.geeksforgeeks.org/problems/largest-divisible-subset--170643/1"
+  },
+  {
+    "question": "Longest String Chain",
+    "slug": "longest-string-chain",
+    "gfg": "https://www.geeksforgeeks.org/problems/longest-string-chain/1"
+  },
+  {
+    "question": "Longest Bitonic Subsequence",
+    "slug": "longest-bitonic-subsequence",
+    "gfg": "https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1"
+  },
+  {
+    "question": "Number of Longest Increasing Subsequences",
+    "slug": "number-of-longest-increasing-subsequences",
+    "gfg": "https://www.geeksforgeeks.org/problems/number-of-longest-increasing-subsequence/1"
+  },
+  {
+    "question": "Longest common subsequence",
+    "slug": "longest-common-subsequence",
+    "gfg": "https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1"
+  },
+  {
+    "question": "Longest common substring",
+    "slug": "longest-common-substring",
+    "gfg": "https://www.geeksforgeeks.org/problems/longest-common-substring1449/1"
+  },
+  {
+    "question": "Longest palindromic subsequence",
+    "slug": "longest-palindromic-subsequence",
+    "gfg": "https://www.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1"
+  },
+  {
+    "question": "Minimum insertions to make string palindrome",
+    "slug": "minimum-insertions-to-make-string-palindrome",
+    "gfg": "https://www.geeksforgeeks.org/problems/form-a-palindrome1455/1"
+  },
+  {
+    "question": "Minimum insertions or deletions to convert string A to B",
+    "slug": "minimum-insertions-or-deletions-to-convert-string-a-to-b",
+    "gfg": "https://www.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1"
+  },
+  {
+    "question": "Shortest common supersequence",
+    "slug": "shortest-common-supersequence",
+    "gfg": "https://www.geeksforgeeks.org/problems/shortest-common-supersequence0322/1"
+  },
+  {
+    "question": "Distinct subsequences",
+    "slug": "distinct-subsequences",
+    "gfg": "https://www.geeksforgeeks.org/problems/number-of-distinct-subsequences0909/1"
+  },
+  {
+    "question": "Edit distance",
+    "slug": "edit-distance",
+    "gfg": "https://www.geeksforgeeks.org/problems/edit-distance3702/1"
+  },
+  {
+    "question": "Wildcard matching",
+    "slug": "wildcard-matching",
+    "gfg": "https://www.geeksforgeeks.org/problems/wildcard-pattern-matching/1"
+  },
+  {
+    "question": "Word Break",
+    "slug": "word-break",
+    "gfg": "https://www.geeksforgeeks.org/problems/word-break1352/1"
+  },
+  {
+    "question": "Count Palindromic Subsequences",
+    "slug": "count-palindromic-subsequences",
+    "gfg": "https://www.geeksforgeeks.org/problems/count-palindromic-subsequences/1"
+  },
+  {
+    "question": "Matrix chain multiplication",
+    "slug": "matrix-chain-multiplication",
+    "gfg": "https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1"
+  },
+  {
+    "question": "Burst balloons",
+    "slug": "burst-balloons",
+    "gfg": "https://www.geeksforgeeks.org/problems/burst-balloons/1"
+  },
+  {
+    "question": "Palindrome partitioning II",
+    "slug": "palindrome-partitioning-ii-",
+    "gfg": "https://www.geeksforgeeks.org/problems/palindromic-patitioning4845/1"
+  },
+  {
+    "question": "Partition Array for Maximum Sum",
+    "slug": "partition-array-for-maximum-sum",
+    "gfg": "https://www.geeksforgeeks.org/problems/partition-array-for-maximum-sum/1"
+  },
+  {
+    "question": "Minimum cost to cut the stick",
+    "slug": "minimum-cost-to-cut-the-stick",
+    "gfg": "https://www.geeksforgeeks.org/problems/minimum-cost-to-cut-a-stick-of-length-n/1"
+  },
+  {
+    "question": "Different Ways to Evaluate a Boolean Expression",
+    "slug": "different-ways-to-evaluate-a-boolean-expression",
+    "gfg": "https://www.geeksforgeeks.org/problems/boolean-parenthesization5610/1"
+  },
+  {
+    "question": "Trie Implementation and Operations",
+    "slug": "trie-implementation-and-operations",
+    "gfg": "https://www.geeksforgeeks.org/problems/trie-delete/1"
+  },
+  {
+    "question": "Trie Implementation and Advanced Operations",
+    "slug": "trie-implementation-and-advanced-operations",
+    "gfg": "https://www.geeksforgeeks.org/problems/trie-delete/1"
+  },
+  {
+    "question": "Longest Word with All Prefixes",
+    "slug": "longest-word-with-all-prefixes",
+    "gfg": "https://www.geeksforgeeks.org/problems/find-the-longest-string--170645/1"
+  },
+  {
+    "question": "Number of distinct substrings in a string",
+    "slug": "number-of-distinct-substrings-in-a-string",
+    "gfg": "https://www.geeksforgeeks.org/problems/count-of-distinct-substrings/1"
+  },
+  {
+    "question": "Maximum XOR of two numbers in an array",
+    "slug": "maximum-xor-of-two-numbers-in-an-array",
+    "gfg": "https://www.geeksforgeeks.org/problems/maximum-xor-of-two-numbers-in-an-array/1"
+  },
+  {
+    "question": "Maximum Xor with an element from an array",
+    "slug": "maximum-xor-with-an-element-from-an-array",
+    "gfg": "https://www.geeksforgeeks.org/problems/maximum-xor-with-an-element-from-array/1"
+  },
+  {
+    "question": "Reverse every word in a string",
+    "slug": "reverse-every-word-in-a-string",
+    "gfg": "https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1"
+  },
+  {
+    "question": "Minimum number of bracket reversals to make an expression balanced",
+    "slug": "minimum-number-of-bracket-reversals-to-make-an-expression-balanced",
+    "gfg": "https://www.geeksforgeeks.org/problems/count-the-reversals0401/1"
+  },
+  {
+    "question": "Count and say",
+    "slug": "count-and-say",
+    "gfg": "https://www.geeksforgeeks.org/problems/decode-the-pattern1138/1"
+  },
+  {
+    "question": "Rabin Karp Algorithm",
+    "slug": "rabin-karp-algorithm",
+    "gfg": "https://www.geeksforgeeks.org/problems/rabin-karp-algorithm/1"
+  },
+  {
+    "question": "Z function",
+    "slug": "z-function",
+    "gfg": "https://www.geeksforgeeks.org/problems/z-algorithm/1"
+  },
+  {
+    "question": "KMP Algorithm or LPS array",
+    "slug": "kmp-algorithm-or-lps-array",
+    "gfg": "https://www.geeksforgeeks.org/problems/search-pattern0205/1"
+  },
+  {
+    "question": "Shortest Palindrome",
+    "slug": "shortest-palindrome",
+    "gfg": "https://www.geeksforgeeks.org/problems/minimum-characters-to-be-added-at-front-to-make-string-palindrome/1"
+  },
+  {
+    "question": "Longest happy prefix",
+    "slug": "longest-happy-prefix",
+    "gfg": "https://www.geeksforgeeks.org/problems/longest-prefix-suffix2527/1"
+  },
+  {
+    "question": "Print all primes till N",
+    "slug": "print-all-primes-till-n",
+    "gfg": "https://www.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1"
+  },
+  {
+    "question": "Prime factorisation of a Number",
+    "slug": "prime-factorisation-of-a-number",
+    "gfg": "https://www.geeksforgeeks.org/problems/prime-factors5052/1"
+  },
+  {
+    "question": "Count primes in range L to R",
+    "slug": "count-primes-in-range-l-to-r",
+    "gfg": "https://www.geeksforgeeks.org/problems/composite-and-prime0359/1"
+  }
+]
