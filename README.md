@@ -26,8 +26,7 @@ A lightweight, non-intrusive Chrome/Chromium (Manifest V3) extension that enhanc
 ## Project Structure
 
 ```
-tuf-extension/
-│
+.
 ├── manifest.json            # Chrome Manifest V3 configuration
 ├── content/
 │   ├── tuf-content.js       # Content script (DOM matching, native GFG injection, observer)
@@ -36,36 +35,29 @@ tuf-extension/
 │   └── problems.json        # Bundled JSON dataset (verified GFG mappings)
 ├── assets/
 │   └── gfg.png              # Bundled GeeksforGeeks logo (clean, transparent)
-└── icons/
-    ├── icon16.png           # Extension icon 16x16
-    ├── icon32.png           # Extension icon 32x32
-    ├── icon48.png           # Extension icon 48x48
-    └── icon128.png          # Extension icon 128x128
+├── icons/
+│   ├── icon16.png           # Extension icon 16x16
+│   ├── icon32.png           # Extension icon 32x32
+│   ├── icon48.png           # Extension icon 48x48
+│   └── icon128.png          # Extension icon 128x128
+├── .gitignore
+└── README.md
 ```
 
 ---
 
 ## Installation Guide (Chrome / Edge / Brave / Chromium)
 
-1. Open your browser and navigate to:
+1. Clone or download this repository.
+2. Open your browser and navigate to:
    ```
    chrome://extensions/
    ```
-2. Enable **Developer mode** (toggle switch in the top-right corner).
-3. Click the **Load unpacked** button in the top-left corner.
-4. Select the `tuf-extension` folder in this repository.
-5. Navigate to [TakeUForward Striver's A2Z DSA Sheet](https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet).
-6. Expand any section (e.g. *Learn the basics*, *Arrays*, *Binary Search*). The verified `[GeeksforGeeks]` button appears seamlessly alongside TUF's native action buttons!
-
----
-
-## Updating the Dataset from Excel
-
-Whenever `TUF_Questions_Platform_Links_Verified.xlsx` is modified:
-```pwsh
-python scripts/convert_excel.py
-```
-This reads column 1 (Question) and column 3 (GeeksforGeeks) and updates `data/problems.json`.
+3. Enable **Developer mode** (toggle switch in the top-right corner).
+4. Click the **Load unpacked** button in the top-left corner.
+5. Select the repository root folder (the folder containing `manifest.json`).
+6. Navigate to [TakeUForward Striver's A2Z DSA Sheet](https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet).
+7. Expand any section (e.g. *Learn the basics*, *Arrays*, *Binary Search*). The verified `[GeeksforGeeks]` button appears seamlessly alongside TUF's native action buttons!
 
 ---
 
