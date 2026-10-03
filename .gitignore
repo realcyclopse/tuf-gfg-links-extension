@@ -16,6 +16,7 @@ tuf_verified_problems.json
 scripts/
 scratch/
 tuf-extension/
+tuf-gfg-links-v1.0.0/
 
 # Prebuilt Archives & Artifacts
 *.zip
